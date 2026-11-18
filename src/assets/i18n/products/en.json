@@ -1,0 +1,10 @@
+{
+  "products": {
+    "detailHint": "Tap into product details and pricing.",
+    "count": "{{count}} item",
+    "count_plural": "{{count}} items"
+  },
+  "productDetail": {
+    "info": "Feature-module translations are loaded lazily when you open product pages."
+  }
+}

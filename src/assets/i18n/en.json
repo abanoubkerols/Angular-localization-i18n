@@ -1,0 +1,40 @@
+{
+  "app": {
+    "title": "Enterprise i18n App",
+    "subtitle": "Localized dashboard for global product teams"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "products": "Products",
+    "selectLanguage": "Language"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Hello {{name}}, welcome back!",
+    "stats": "You have {{count}} products available.",
+    "headline": "Your global metrics are always current.",
+    "summary": "This screen reacts instantly when you change the application language.",
+    "description": "Use a production-ready localization structure with per-feature JSON bundles."
+  },
+  "products": {
+    "title": "Products",
+    "description": "Browse our current product catalogue.",
+    "detailHint": "Tap into product details and pricing.",
+    "count": "{{count}} item",
+    "count_plural": "{{count}} items"
+  },
+  "productDetail": {
+    "title": "Product details",
+    "description": "{{name}} is a premium product available to global customers.",
+    "price": "Price",
+    "info": "This page demonstrates route-driven translations and fallback behavior.",
+    "back": "Back to products"
+  },
+  "form": {
+    "search": "Search products",
+    "placeholder": "Type to search..."
+  },
+  "button": {
+    "save": "Save"
+  }
+}
